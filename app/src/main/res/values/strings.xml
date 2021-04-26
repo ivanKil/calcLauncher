@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculatorLauncher</string>
+    <string name="calc_launch">Запустить калькулятор</string>
+</resources>
